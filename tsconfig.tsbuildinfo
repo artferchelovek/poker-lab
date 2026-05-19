@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/cardselector.tsx","./src/components/classicpoker.tsx","./src/components/playingcard.tsx","./src/components/texaspoker.tsx","./src/logic/comboevaluator.ts","./src/logic/deckmanager.ts","./src/logic/montecarlosimulator.ts","./src/types/poker.ts"],"version":"5.9.3"}
